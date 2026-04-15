@@ -1,0 +1,68 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+*.kotlin_module
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Generated files
+/bin/
+/gen/
+/out/
+
+# Signing / secrets
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+secrets.properties
+
+# NDK
+obj/
+
+# Logs
+*.log
+
+# Test / coverage
+coverage/
+*.ec
+
+# Python helpers
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node, if you add tooling later
+node_modules/
+
+# Misc
+tmp/
+temp/
+*.swp
+*.swo
